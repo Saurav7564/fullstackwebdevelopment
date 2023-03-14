@@ -22,3 +22,4 @@ const webUrl = "https://pwskills.com/hitesh%20choudhary"
 
 const useableUrl = webUrl.replace(/%\d0/, '-')
 console.log(useableUrl);
+........
